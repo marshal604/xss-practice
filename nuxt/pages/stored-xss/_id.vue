@@ -1,5 +1,8 @@
 <template>
-  <div v-html="xss"></div>
+  <div>
+    <h1 class="text-4xl text-center">Stored XSS</h1>
+    <div v-html="xss"></div>
+  </div>
 </template>
 <script>
 import { COOKIE_KEY, DEFAULT_XSS } from './constants'

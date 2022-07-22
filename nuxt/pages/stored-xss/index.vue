@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text-4xl text-center">POST</h1>
+    <h1 class="text-4xl text-center">Stored XSS</h1>
     <div class="ml-6 my-4">
       <input
         v-model="title"
