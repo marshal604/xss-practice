@@ -6,6 +6,9 @@
       <li class="text-2xl my-2">
         <nuxt-link to="stored-xss">Stored-XSS</nuxt-link>
       </li>
+      <li class="text-2xl my-2">
+        <nuxt-link to="reflected-xss">Reflected-XSS</nuxt-link>
+      </li>
     </ul>
   </div>
 </template>
