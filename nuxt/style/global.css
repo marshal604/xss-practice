@@ -1,0 +1,7 @@
+a {
+  border-bottom: 1px solid;
+  cursor: pointer
+}
+a:hover {
+  color: #49937a
+}
